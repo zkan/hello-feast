@@ -289,7 +289,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "feast" }]
+requires-dist = [{ name = "feast", specifier = ">=0.42.0" }]
 
 [[package]]
 name = "httptools"
